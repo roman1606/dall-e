@@ -1,6 +1,6 @@
 https://dreamy-kulfi-ace885.netlify.app
 
-A website created using OpenAi for ai created image generation. 
+A website for ai image generation using OpenAi API. 
 
 ![image](https://user-images.githubusercontent.com/34632896/215927312-f447d5cb-ed0c-4e8e-8a7c-6a54d0fb8612.png)
 ![image](https://user-images.githubusercontent.com/34632896/215927344-02610fed-09a9-4bae-b61a-f1737a3abe98.png)
